@@ -123,7 +123,7 @@ function checkWin() {
     });
     
     if (conflicts === 0) {
-      alert("🎉 YOU WIN! 🎉 All 8 Queens placed safely!");
+      alert("🎉 YOU WIN! All 8 Queens placed safely!");
     }
   }
 }
@@ -172,4 +172,5 @@ document.getElementById("answer-btn").addEventListener("click", () => {
   setTimeout(() => {
     checkWin();
   }, 300);
+
 });
