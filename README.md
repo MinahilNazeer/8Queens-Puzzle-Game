@@ -25,7 +25,7 @@ Creating this game wasn’t straightforward. Some challenges included:
 - **JavaScript** – for game logic, DOM manipulation, and dynamic updates  
 
 
-##How to Run the Project
+**How to Run the Project**
 1. **Clone or download** this repository:
                ```bash
 git clone https://github.com/MinahilNazeer/8Queens-Puzzle-Game
@@ -33,7 +33,7 @@ git clone https://github.com/MinahilNazeer/8Queens-Puzzle-Game
 3.	Open index.html in your browser or use Show Preview to run it.
 
 
-##Features
+**Features**
 -	Interactive 8×8 chessboard
 -	Click to place or remove queens
 -Automatic danger-zone detection
@@ -50,14 +50,14 @@ git clone https://github.com/MinahilNazeer/8Queens-Puzzle-Game
 ![You Win](./preview4.png)
 ![8 Queens Placed](./preview5.png)
 
-##Live Demo
+**Live Demo**
 -Play the game live here:
 -🔗 https://minahilnazeer.github.io/8Queens-Puzzle-Game/
 
 
 **Author**
-Minahil Nazeer 
-BSCS Student 
-🇵🇰 From Pakistan
+-Minahil Nazeer 
+-BSCS Student 
+-🇵🇰 From Pakistan
 
 
