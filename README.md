@@ -51,11 +51,11 @@ git clone https://github.com/MinahilNazeer/8Queens-Puzzle-Game
 ![8 Queens Placed](./preview5.png)
 
 ##Live Demo
-Play the game live here:
-🔗 https://minahilnazeer.github.io/8Queens-Puzzle-Game/
+-Play the game live here:
+-🔗 https://minahilnazeer.github.io/8Queens-Puzzle-Game/
 
 
-##Author
+**Author**
 Minahil Nazeer 
 BSCS Student 
 🇵🇰 From Pakistan
