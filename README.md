@@ -42,7 +42,7 @@ git clone https://github.com/MinahilNazeer/8Queens-Puzzle-Game
 •	**Responsive design** — works on mobile, tablet, and desktop  
 
 
- Preview
+## Preview
 
  
 
@@ -54,12 +54,12 @@ git clone https://github.com/MinahilNazeer/8Queens-Puzzle-Game
 
 
 
-Live Demo
+##Live Demo
 Play the game live here:
 🔗 https://minahilnazeer.github.io/8Queens-Puzzle-Game/
 
 
-Author
+##Author
 Minahil Nazeer 
 BSCS Student 
 🇵🇰 From Pakistan
