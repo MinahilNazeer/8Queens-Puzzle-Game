@@ -34,13 +34,13 @@ git clone https://github.com/MinahilNazeer/8Queens-Puzzle-Game
 
 
 ##Features
-•	Interactive 8×8 chessboard
-•	Click to place or remove queens
-•	Automatic danger-zone detection
-•	**Answer** button shows one correct solution
-•	**Restart** button resets the board
-•	Minimalistic and clean UI
-•	**Responsive design** — works on mobile, tablet, and desktop  
+-	Interactive 8×8 chessboard
+-	Click to place or remove queens
+-Automatic danger-zone detection
+-	**Answer** button shows one correct solution
+-**Restart** button resets the board
+-Minimalistic and clean UI
+-**Responsive design** — works on mobile, tablet, and desktop  
 
 
 ## Preview
